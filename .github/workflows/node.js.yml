@@ -26,7 +26,7 @@ jobs:
     - name: Execute the unit tests
       run: npm run test:unit
     - name: Display softuni username
-      run: echo "timpetrov"
+      run: echo "timpetrovv"
 
   execute-ui-test:
     needs: build-and-unit-test
